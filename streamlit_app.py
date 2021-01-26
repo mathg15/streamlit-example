@@ -11,7 +11,7 @@ def slider():
     return n
 
 def slider2():
-    n = st.slider('r',1,5,3)
+    n = st.slider('r',0,5,3)
     return n
 
 def slider3():
